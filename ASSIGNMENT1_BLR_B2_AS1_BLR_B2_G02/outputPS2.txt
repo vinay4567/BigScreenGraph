@@ -1,0 +1,96 @@
+--------Function displayActMov--------
+Total no. of movies:10
+Total no. of actors:15
+
+List of Movies:
+Dangal
+Sanju
+PK
+Munna Bhai MBBS
+Zindagi Na Milegi Dobara
+ADHM
+Krish
+Kesari
+Gully Boy
+Highway
+
+List of Actors:
+Aamir Khan
+Fatima Sana
+Ranbir Kapoor
+Dia Mirza
+Anushka Sharma
+Sanjay Dutt
+Arshad Warsi
+Farhan Akhtar
+Katrina Kaif
+Hritik
+Akshay Kumar
+Parineeti Chopra
+Alia Bhat
+Ranveer Singh
+Randeep Hooda
+-----------------------------------------
+
+--------Function displayMoviesOfActor-------- 
+Actor name:Aamir Khan
+List of Movies:
+Dangal
+PK
+-----------------------------------------
+
+
+--------Function displayMoviesOfActor-------- 
+Actor name:Sanjay Dutt
+List of Movies:
+Munna Bhai MBBS
+-----------------------------------------
+
+
+
+--------Function displayActorsOfMovie -------- 
+Movie name:Gully Boy
+List of Actors:
+Alia Bhat
+Ranveer Singh
+-----------------------------------------
+
+
+--------Function displayActorsOfMovie -------- 
+Movie name:PK
+List of Actors:
+Aamir Khan
+Anushka Sharma
+-----------------------------------------
+
+
+--------Function findMovieRelation --------
+
+Movie A:Dangal
+Movie B:PK
+Related: Yes, Aamir Khan
+-----------------------------------------
+
+
+--------Function findMovieRelation --------
+
+Movie A:Kesari
+Movie B:Highway
+Related: NO, Relation does not exist between the movies Kesari and Highway
+-----------------------------------------
+
+
+--------Function findMovieTransRelation--------
+
+Movie A:Dangal
+Movie B:ADHM
+Related: Yes,Dangal -> Aamir Khan -> PK -> Anushka Sharma -> ADHM
+-----------------------------------------
+
+
+--------Function findMovieTransRelation--------
+
+Movie A:Sanju
+Movie B:Krish
+Related: NO  Relation does not exist between the movies Sanju and Krish
+-----------------------------------------

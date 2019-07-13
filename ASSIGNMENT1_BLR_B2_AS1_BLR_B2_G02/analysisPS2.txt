@@ -1,0 +1,21 @@
+m - number of list elements at node n - Edges
+n = Number of nodes in tree - Vertices
+
+addEdge 
+O(1) + O(m) 
+O(m)
+
+displayActMov 
+O(1) + O(n) + O(m)
+O(n+m)
+
+displayMoviesOfActor
+displayActorsOfMovie
+O(1) + O(m)
+O(m)
+
+findMovieRelation
+O(m+n)
+
+findMovieTransRelation
+O(m+n)
